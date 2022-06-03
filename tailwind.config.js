@@ -11,6 +11,9 @@ module.exports = {
     extend: {
       colors: {
         svelte: '#ff3e00',
+        primary: "#ac0001",
+        secondary: "#ca6060",
+        contrast: "#60A561"
       },
     },
   },
